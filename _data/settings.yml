@@ -5,7 +5,7 @@ title: Marcus Bale
 logo: 
 author: Marcus Bale
 description: this is meta description
-email: marcusbale.inlondon@mail.com
+email: marcusbale.inlondon@gmail.com
 # phone: +880 2544 658 256
 # address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+# - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
@@ -38,7 +38,7 @@ disqus-identifier: marcusb # Add your shortname for Disqus Comment. For example 
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Marcus <br> a Product lover
+  hero-title: Hi! I’m <br> Marcus <br> and I love product
 
 social:
 
@@ -51,9 +51,9 @@ social:
 
 # About Section
 blurb:
-  Welcome to my blog space! I'm a tech and gaming obsessed Product Director with experience managing and delivering high quality products in startup and enterprise environments.
-  I've been working in product development for over 7 years and over that period I've learnt a lot about product strategy, user research, UX design and data analysis.
-  I intend to use this space to document my thoughts and experiences. Have any feedback, questions or comments? Feel free to drop me message!
+  Welcome to my blog space! I'm a tech and gaming obsessed Product Director with over 7 years of experience managing and delivering products across startups and enterprises.
+  <br>
+  Over that period I've learnt a lot about product strategy, user research and data analysis, and I plan to share some my of thoughts and experiences here.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -77,18 +77,18 @@ work-process:
 
 
 # My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+# team:
+#   - title : "Jack Schenziwe"
+#     image : "assets/images/team/member-1.png"
+#     designation : "Project Manager"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+#   - title : "Julias Carlie"
+#     image : "assets/images/team/member-2.png"
+#     designation : "Web Developer"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+#   - title : "John Doe"
+#     image : "assets/images/team/member-3.png"
+#     designation : "Designer"
 
 
 #-------------------------------
@@ -96,20 +96,29 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
-
+- {name: Analysis, color: '#B8336A', value: '95%'}
+- {name: Communication, color: '#FFB2E6', value: '85%'}
+- {name: Creativity, color: '#1C7293', value: '80%'}
+- {name: Agile Delivery, color: '#F7996E', value: '95%'}
+- {name: User Empathy, color: '#F7996E', value: '90%'}
+- {name: Leadership, color: '#1C7293', value: '75%'}
+- {name: Product Strategy, color: '#FFB2E6', value: '70%'}
+- {name: Problem Solving, color: '#B8336A', value: '85%'}
 
 #-------------------------------
 # Exprerience Section
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Product Director, icon: 'bigsofa_icon.png', date: 'Jul 2020 - Present', organization: 'BIG SOFA TECHNOLOGIES'}
+- {name: Senior Product Manager, icon: 'bigsofa_icon.png', date: 'Jul 2019 - Jun 2020', organization: 'BIG SOFA TECHNOLOGIES'}
+- {name: Product Manager, icon: 'bigsofa_icon.png', date: 'Jun 2018 - Jun 2019', organization: 'BIG SOFA TECHNOLOGIES'}
+- {name: Product Owner, icon: 'macmillan_icon.png', date: 'Jun 2017 - Jun 2018', organization: 'MACMILLAN EDUCATION'}
+- {name: Agile Business Analyst, icon: 'sky_icon.png', date: 'Jan 2016 - Jun 2017', organization: 'SKY'}
+- {name: Technical Analyst, icon: 'sky_icon.png', date: 'Jun 2015 - Jan 2016', organization: 'SKY'}
+- {name: Associate Software Engineer, icon: 'sky_icon.png', date: 'Jul 2014 - Jun 2015', organization: 'SKY'}
+- {name: Business Analyst (Internship), icon: 'ge_icon.png', date: 'Jul 2012 - Jul 2013', organization: 'GE Capital'}
+
 
 
 #-------------------------------
@@ -117,181 +126,198 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: BSc Computing and Mathematics (First Class), date: '2014', organization: 'University of the West of England'}
+- {name: A-Levels, date: '2010', organization: 'Holyrood Academy'}
+
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Competencies 
 services:
 - {
-    name: UI Design,
+    name: Product Strategy,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Skilled at analysing and balancing competing needs, articulating a product vision and prioritising features into an achieve-able roadmap.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: User Research & UX Design,
+    icon: ti-vector,
+    description: 'Experience conducting user research interviews, usability tests and designing wireframes using Sketch and other inVision.',
+    active:  # Add true to select section
+  }
+- {
+    name: AI & Machine Learning,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Understanding of the process of developing AI and ML algorithms. Experience researching, analysing and integrating AI engines including text analytics, NLP, image recognition and audio analysis to facial coding and emotion detection.',
+    active: true # Add true to select section
+  }
+- {
+    name: Data Analysis,
+    icon: ti-panel,
+    description: 'Comfortable extracting, analysing and visualising large datasets using a variety of tools and using this to inform product decisions.',
     active: # Add true to select section
   }
-
+- {
+    name: Networking & Communication,
+    icon: ti-panel,
+    description: 'E!ective at building relationships with clients, users, stakeholders, suppliers and team members. Able to tailor communications to convey information at an appropriate level for the target audience.',
+    active: # Add true to select section
+  }
+- {
+    name: Agile Practices,
+    icon: ti-panel,
+    description: 'Keen interest in Agile methodology with experience working within Scrum and Kanban development teams.',
+    active: # Add true to select section
+  }
 
 
 #-------------------------------
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+# portfolio-home-items:
+#   - image : "assets/images/portfolio/item-1.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-2.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-3.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-4.png"
+#     url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+#   - image : "assets/images/portfolio/item-5.png"
+#     url: "#"
 
 
 # Portfolio Page
-portfolio-label:
-- {
-    title : "UI/UX Design",
-    type : "design"
-  }
-- {
-    title : "BRANDING",
-    type : "branding"
-  }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
+# portfolio-label:
+# - {
+#     title : "UI/UX Design",
+#     type : "design"
+#   }
+# - {
+#     title : "BRANDING",
+#     type : "branding"
+#   }
+# - {
+#     title : "ILLUSTRATION",
+#     type : "illustration"
+#   }
 
-portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-     - type: "design"
-     - type: "illustration"
+# portfolio-items:
+#   - image : "assets/images/portfolio/item-1.png"
+#     url: "#"
+#     portfolio-type:
+#      - type: "design"
+#      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-2.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image : "assets/images/portfolio/item-3.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-6.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image : "assets/images/portfolio/item-8.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
+#   - image : "assets/images/portfolio/item-5.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-1.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+#   - image : "assets/images/portfolio/item-3.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "design"
+#       - type: "illustration"
+#       - type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#   - image : "assets/images/portfolio/item-7.png"
+#     url: "#"
+#     portfolio-type:
+#       - type: "illustration"
 
 
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+# testimonial-items:
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation : "CEO, Funder"
+#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+# client-slider-items:
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
 #-------------------------------
 # Contact Section
 
+
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: marcusbale.inlondon@gmail.com
