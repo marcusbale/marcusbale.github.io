@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Marcus Bale
 logo: 
-author: themefisher
+author: Marcus Bale
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: marcusbale.inlondon@mail.com
+# phone: +880 2544 658 256
+# address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -31,19 +31,18 @@ google-analytics: # UA-XXXXXX-X
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: marcusb # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Marcus <br> a Product lover
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
+
+- {icon: "ti-linkedin", link: "https://uk.linkedin.com/in/marcus-bale"}
 - {icon: "ti-twitter", link: "#"}
 
 
@@ -52,7 +51,9 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Welcome to my blog space! I'm a tech and gaming obsessed Product Director with experience managing and delivering high quality products in startup and enterprise environments.
+  I've been working in product development for over 7 years and over that period I've learnt a lot about product strategy, user research, UX design and data analysis.
+  I intend to use this space to document my thoughts and experiences. Have any feedback, questions or comments? Feel free to drop me message!
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
