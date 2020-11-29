@@ -2,13 +2,14 @@
 # General Site Settings
 
 title: Marcus Bale
-logo: 
+logo:
 author: Marcus Bale
 description: this is meta description
 email: marcusbale.inlondon@gmail.com
 # phone: +880 2544 658 256
 # address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Content and illustrations by Marcus Bale.<br>
+           Copyright &copy; 2020 Jekyll theme by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -66,11 +67,11 @@ work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
+
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
+
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -81,11 +82,11 @@ work-process:
 #   - title : "Jack Schenziwe"
 #     image : "assets/images/team/member-1.png"
 #     designation : "Project Manager"
-    
+
 #   - title : "Julias Carlie"
 #     image : "assets/images/team/member-2.png"
 #     designation : "Web Developer"
-    
+
 #   - title : "John Doe"
 #     image : "assets/images/team/member-3.png"
 #     designation : "Designer"
@@ -134,41 +135,41 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Competencies 
+services-title: Competencies
 services:
 - {
     name: Product Strategy,
-    icon: ti-palette,
+    icon: "baseline_insights_black_48dp.png",
     description: 'Skilled at analysing and balancing competing needs, articulating a product vision and prioritising features into an achieve-able roadmap.',
-    active: true # Add true to select section
+    active:  # Add true to select section
   }
 - {
     name: User Research & UX Design,
-    icon: ti-vector,
+    icon: "outline_palette_black_48dp.png",
     description: 'Experience conducting user research interviews, usability tests and designing wireframes using Sketch and other inVision.',
     active:  # Add true to select section
   }
 - {
     name: AI & Machine Learning,
-    icon: ti-panel,
+    icon: "baseline_psychology_black_48dp.png",
     description: 'Understanding of the process of developing AI and ML algorithms. Experience researching, analysing and integrating AI engines including text analytics, NLP, image recognition and audio analysis to facial coding and emotion detection.',
-    active: true # Add true to select section
+    active:  # Add true to select section
   }
 - {
     name: Data Analysis,
-    icon: ti-panel,
+    icon: "baseline_insert_chart_outlined_black_48dp.png",
     description: 'Comfortable extracting, analysing and visualising large datasets using a variety of tools and using this to inform product decisions.',
     active: # Add true to select section
   }
 - {
     name: Networking & Communication,
-    icon: ti-panel,
+    icon: "baseline_chat_black_48dp.png",
     description: 'E!ective at building relationships with clients, users, stakeholders, suppliers and team members. Able to tailor communications to convey information at an appropriate level for the target audience.',
     active: # Add true to select section
   }
 - {
     name: Agile Practices,
-    icon: ti-panel,
+    icon: "outline_sync_black_48dp.png",
     description: 'Keen interest in Agile methodology with experience working within Scrum and Kanban development teams.',
     active: # Add true to select section
   }
@@ -181,16 +182,16 @@ services:
 # portfolio-home-items:
 #   - image : "assets/images/portfolio/item-1.png"
 #     url: "#"
-    
+
 #   - image : "assets/images/portfolio/item-2.png"
 #     url: "#"
-    
+
 #   - image : "assets/images/portfolio/item-3.png"
 #     url: "#"
-    
+
 #   - image : "assets/images/portfolio/item-4.png"
 #     url: "#"
-    
+
 #   - image : "assets/images/portfolio/item-5.png"
 #     url: "#"
 
@@ -216,45 +217,45 @@ services:
 #     portfolio-type:
 #      - type: "design"
 #      - type: "illustration"
-      
+
 #   - image : "assets/images/portfolio/item-2.png"
 #     url: "#"
 #     portfolio-type:
 #       - type: "branding"
-      
+
 #   - image : "assets/images/portfolio/item-3.png"
 #     url: "#"
 #     portfolio-type:
 #       - type: "illustration"
-      
+
 #   - image : "assets/images/portfolio/item-6.png"
 #     url: "#"
 #     portfolio-type:
 #       - type: "design"
 #       - type: "branding"
-      
+
 #   - image : "assets/images/portfolio/item-8.png"
 #     url: "#"
 #     portfolio-type:
 #       - type: "illustration"
-      
+
 #   - image : "assets/images/portfolio/item-5.png"
 #     url: "#"
 #     portfolio-type:
 #       - type: "design"
-      
+
 #   - image : "assets/images/portfolio/item-1.png"
 #     url: "#"
 #     portfolio-type:
 #       - type: "branding"
-      
+
 #   - image : "assets/images/portfolio/item-3.png"
 #     url: "#"
 #     portfolio-type:
 #       - type: "design"
 #       - type: "illustration"
 #       - type: "branding"
-      
+
 #   - image : "assets/images/portfolio/item-7.png"
 #     url: "#"
 #     portfolio-type:
@@ -269,12 +270,12 @@ services:
 #     image: "assets/images/testimonial/client-1.png"
 #     designation : "CEO, Funder"
 #     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
+
 #   - name: "Jesica Gomez"
 #     image: "assets/images/testimonial/client-1.png"
 #     designation: "CEO, Funder"
 #     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
+
 #   - name: "Jesica Gomez"
 #     image: "assets/images/testimonial/client-1.png"
 #     designation: "CEO, Funder"
@@ -287,31 +288,31 @@ services:
 # client-slider-items:
 #   - logo: "assets/images/clients-logo/client-logo-1.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-2.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-3.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-4.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-5.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-1.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-2.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-3.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-4.png"
 #     url: "#"
-    
+
 #   - logo: "assets/images/clients-logo/client-logo-5.png"
 #     url: "#"
 
