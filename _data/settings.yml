@@ -168,7 +168,7 @@ services:
     name: Product Strategy,
     icon: "baseline_insights_black_48dp.png",
     description:
-      'Skilled at analysing and balancing competing needs, articulating a product vision and prioritising features into an achieve-able roadmap.<br><br><br>',
+      'Skilled at analysing and balancing competing needs, articulating a product vision and prioritising features into an achieve-able roadmap using a data-led approach.<br><br><br>',
     active:  # Add true to select section
   }
 - {
