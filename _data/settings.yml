@@ -26,7 +26,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: G-TE7HWQKZS0
 
 
 #-------------------------------
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Welcome to my blog space! I'm a tech and gaming obsessed Product Director with over 7 years of experience managing and delivering products across startups and enterprises.
+  Welcome to my blog space! I'm a tech and gaming obsessed Product Director with over 6 years of experience managing and delivering products across startups and enterprises.
   <br>
   Over that period I've learnt a lot about product strategy, user research and data analysis, and I plan to share some my of thoughts and experiences here.
 
@@ -62,19 +62,45 @@ blurb-btn-name: know more
 
 # About Page
 
+
+
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Follow the data"
+    icon : "assets/images/icons/Data.png"
+    content :
+      "Avoid Gut Driven Development (GDD), experience is valuable but situations and behaviours can change.
+      <br>Test your assumptions to mitigate risk.
+      <br>Decide what matters most and measure it (Golden Metric)."
 
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Behind every software solution is a human problem"
+    icon : "assets/images/icons/Heart.png"
+    content :
+      "Data can show you what is happening but it can't always tell you why.
+      <br>Engage your users to understand their needs.
+      <br>Observe as well as surveying, interviewing and testing to avoid the say-do gap.
+      <br>Democratise your research to share empathy."
 
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Tools over hammers"
+    icon : "assets/images/icons/Hammer.png"
+    content :
+      "Just because an approach works for one scenario doesn't mean it will work for everything.
+      <br>Use the right tool for the job.
+      <br>Adapt what works and drop what doesn't."
+
+  - title : "Don't let perfect be the enemy of good"
+    icon : "assets/images/icons/Done.png"
+    content :
+      "Design, build and measure against the baseline not the ideal.
+      <br>Deliver something that works then iterate.
+      <br>Good should always be ethical, compliant and valuable."
+
+  - title : "Focus on the rocks not the sand"
+    icon : "assets/images/icons/JarOfRocks.png"
+    content :
+      "Focus on the important things (rocks) and the small stuff will fit around it (sand).
+      <br>Keep perspective of what's really important, whether that's in your professional life (goals, objectives) or in your personal life (family, health).
+      <br>Put people before processes."
 
 
 # My Team Section
@@ -100,11 +126,12 @@ skills:
 - {name: Analysis, color: '#B8336A', value: '95%'}
 - {name: Communication, color: '#FFB2E6', value: '85%'}
 - {name: Creativity, color: '#1C7293', value: '80%'}
-- {name: Agile Delivery, color: '#F7996E', value: '95%'}
-- {name: User Empathy, color: '#F7996E', value: '90%'}
+- {name: Delivery, color: '#F7996E', value: '95%'}
+- {name: Empathy, color: '#F7996E', value: '90%'}
 - {name: Leadership, color: '#1C7293', value: '75%'}
-- {name: Product Strategy, color: '#FFB2E6', value: '70%'}
-- {name: Problem Solving, color: '#B8336A', value: '85%'}
+- {name: Problem Solving, color: '#FFB2E6', value: '85%'}
+- {name: Product Strategy, color: '#B8336A', value: '70%'}
+
 
 #-------------------------------
 # Exprerience Section
@@ -140,37 +167,44 @@ services:
 - {
     name: Product Strategy,
     icon: "baseline_insights_black_48dp.png",
-    description: 'Skilled at analysing and balancing competing needs, articulating a product vision and prioritising features into an achieve-able roadmap.',
+    description:
+      'Skilled at analysing and balancing competing needs, articulating a product vision and prioritising features into an achieve-able roadmap.<br><br><br>',
     active:  # Add true to select section
   }
 - {
     name: User Research & UX Design,
     icon: "outline_palette_black_48dp.png",
-    description: 'Experience conducting user research interviews, usability tests and designing wireframes using Sketch and other inVision.',
+    description:
+      'Experience conducting user research interviews, usability tests and designing wireframes using Sketch and other inVision.<br><br><br><br>',
     active:  # Add true to select section
   }
 - {
     name: AI & Machine Learning,
     icon: "baseline_psychology_black_48dp.png",
-    description: 'Understanding of the process of developing AI and ML algorithms. Experience researching, analysing and integrating AI engines including text analytics, NLP, image recognition and audio analysis to facial coding and emotion detection.',
+    description:
+      'Understanding of the process of developing AI and ML algorithms.
+      Experience researching, analysing and integrating AI engines including text analytics, NLP and image recognition to facial coding and emotion detection.',
     active:  # Add true to select section
   }
 - {
     name: Data Analysis,
     icon: "baseline_insert_chart_outlined_black_48dp.png",
-    description: 'Comfortable extracting, analysing and visualising large datasets using a variety of tools and using this to inform product decisions.',
+    description:
+      'Comfortable extracting, analysing and visualising large datasets using a variety of tools and using this to inform product decisions.<br><br><br>',
     active: # Add true to select section
   }
 - {
     name: Networking & Communication,
     icon: "baseline_chat_black_48dp.png",
-    description: 'E!ective at building relationships with clients, users, stakeholders, suppliers and team members. Able to tailor communications to convey information at an appropriate level for the target audience.',
+    description:
+      'Effective at building relationships with clients, users, stakeholders, suppliers and team members.
+      Able to tailor communications to convey information at an appropriate level for the target audience.',
     active: # Add true to select section
   }
 - {
     name: Agile Practices,
     icon: "outline_sync_black_48dp.png",
-    description: 'Keen interest in Agile methodology with experience working within Scrum and Kanban development teams.',
+    description: 'Keen interest in Agile methodology with experience working within Scrum and Kanban development teams.<br><br><br><br>',
     active: # Add true to select section
   }
 
